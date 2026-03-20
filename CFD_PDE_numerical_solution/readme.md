@@ -1,1 +1,0 @@
-implicit_basic.py（Book/implicit_computation/8_3/implicit_basic.py）是我学习隐式计算的第一个代码。
